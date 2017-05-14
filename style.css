@@ -18,3 +18,16 @@
  .dash-items{
 	text-align: center;
 }
+.bar{
+	background: #fff;
+	border-bottom: 1px solid #ccc;  
+}
+.bar.bar-custom {
+     border-color: none;
+     background-color: #fff !important;
+     background-image: none; 
+    color: #444;
+}
+.bar.bar-light{
+	background-image: none !important;
+}
